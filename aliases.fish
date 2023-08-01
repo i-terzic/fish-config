@@ -1,8 +1,6 @@
 # ls aliases
-alias ls "ls -p -G"
-alias la "ls -A"
+alias la "ls -la"
 alias ll "ls -l"
-alias lla "ll -A"
 
 # vim alias
 command -qv nvim && alias vim nvim

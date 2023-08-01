@@ -12,3 +12,4 @@ end
 # <<< conda initialize <<<
 
 source "$HOME/.config/fish/aliases.fish"
+source "$HOME/.config/fish/functions/convenience.fish"
