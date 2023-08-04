@@ -20,8 +20,9 @@ SETUVAR _fisher_jethrokuan_2F_z_files:\x7e/\x2econfig/fish/functions/__z\x2efish
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
 SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:\x7e/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_list\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
 SETUVAR _fisher_jorgebucaran_2F_spark_2E_fish_files:\x7e/\x2econfig/fish/functions/spark\x2efish\x1e\x7e/\x2econfig/fish/completions/spark\x2efish
+SETUVAR _fisher_markcial_2F_upto_files:\x7e/\x2econfig/fish/functions/upto\x2efish\x1e\x7e/\x2econfig/fish/completions/upto\x2efish
 SETUVAR _fisher_meaningful_2D_ooo_2F_sponge_files:\x7e/\x2econfig/fish/functions/_sponge_clear_state\x2efish\x1e\x7e/\x2econfig/fish/functions/_sponge_on_exit\x2efish\x1e\x7e/\x2econfig/fish/functions/_sponge_on_postexec\x2efish\x1e\x7e/\x2econfig/fish/functions/_sponge_on_preexec\x2efish\x1e\x7e/\x2econfig/fish/functions/_sponge_on_prompt\x2efish\x1e\x7e/\x2econfig/fish/functions/_sponge_remove_from_history\x2efish\x1e\x7e/\x2econfig/fish/functions/sponge_filter_failed\x2efish\x1e\x7e/\x2econfig/fish/functions/sponge_filter_matched\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/sponge\x2efish
-SETUVAR _fisher_plugins:jorgebucaran/fisher\x1efranciscolourenco/done\x1ejethrokuan/z\x1ejethrokuan/fzf\x1eedc/bass\x1esimnalamburt/shellder\x1emeaningful\x2dooo/sponge\x1ejorgebucaran/nvm\x2efish\x1ejorgebucaran/spark\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1efranciscolourenco/done\x1ejethrokuan/z\x1ejethrokuan/fzf\x1eedc/bass\x1esimnalamburt/shellder\x1emeaningful\x2dooo/sponge\x1ejorgebucaran/nvm\x2efish\x1ejorgebucaran/spark\x2efish\x1emarkcial/upto
 SETUVAR _fisher_upgraded_to_4_4:\x1d
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
